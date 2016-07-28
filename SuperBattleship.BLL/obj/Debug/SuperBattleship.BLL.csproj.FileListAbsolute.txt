@@ -1,0 +1,5 @@
+c:\_repos\john-kachurek-individual-work\SuperBattleship\SuperBattleship.BLL\bin\Debug\SuperBattleship.BLL.dll
+c:\_repos\john-kachurek-individual-work\SuperBattleship\SuperBattleship.BLL\bin\Debug\SuperBattleship.BLL.pdb
+c:\_repos\john-kachurek-individual-work\SuperBattleship\SuperBattleship.BLL\obj\Debug\SuperBattleship.BLL.dll
+c:\_repos\john-kachurek-individual-work\SuperBattleship\SuperBattleship.BLL\obj\Debug\SuperBattleship.BLL.pdb
+c:\_repos\john-kachurek-individual-work\SuperBattleship\SuperBattleship.BLL\obj\Debug\SuperBattleship.BLL.csprojResolveAssemblyReference.cache
